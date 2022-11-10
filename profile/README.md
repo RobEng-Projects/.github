@@ -7,6 +7,8 @@
 - 👩‍💻 Repos for the projects are mainly private till the first release.
 - 🍿 Do you want to make us happy? Buy us a coffee.
 - 🧙 Have fun! Coding is beautiful!
+- 💰 Do you want to help us? Click on the button below! It will help us building our projects! <br> <br>
+ [![Donate](https://img.shields.io/badge/paypal-donate-blue)](https://www.paypal.com/donate/?hosted_button_id=CLUA3DUGR4A2Q)
 
 # <img src="https://user-images.githubusercontent.com/62358773/201054267-813527ff-db10-4746-98d2-b590956c9d9e.png" width="6%" height="6%"> Projects
 

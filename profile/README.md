@@ -1,15 +1,12 @@
-## Hi there 👋
-
-<!--
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
 <img src="https://user-images.githubusercontent.com/62358773/201055156-1796d44d-0841-4dac-946b-a1ae0532d592.jpg" width="25%" height="25%">
+
+# Hi there 👋
+
+- 🙋‍♀️ Organization of Robotics Engineering students trying to build something in the missing free time.
+- 🌈 Would you like to join? Nice! Let us know through our mails!
+- 👩‍💻 Repos for the projects are mainly private till the first release.
+- 🍿 Do you want to make us happy? Buy us a coffee.
+- 🧙 Have fun! Coding is beautiful!
 
 # <img src="https://user-images.githubusercontent.com/62358773/201054267-813527ff-db10-4746-98d2-b590956c9d9e.png" width="6%" height="6%"> Projects
 

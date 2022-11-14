@@ -1,7 +1,7 @@
 
-<p align="center">
+
 ![logo-modified](https://user-images.githubusercontent.com/81308076/201754681-79521a2e-62fa-4bb0-b195-1a927cf0efb2.png)
-</p>
+
 
 # Hi there 👋
 

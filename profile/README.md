@@ -2,7 +2,6 @@
 <p align = "center">
  <img src="https://user-images.githubusercontent.com/81308076/201754681-79521a2e-62fa-4bb0-b195-1a927cf0efb2.png"/> <br><br>
  <a href="https://github.com/RobEng-Projects/.github/stargazers"><img src="https://img.shields.io/github/stars/RobEng-Projects/.github?color=blue" alt="Stars Badge"/></a>
- <a href="https://github.com/RobEng-Projects/.github/network/members"><img src="https://img.shields.io/github/forks/RobEng-Projects/.github?color=blue" alt="Forks Badge"/></a>
 <a href="https://github.com/RobEng-Projects/.github/graphs/contributors"><img src="https://img.shields.io/github/contributors/RobEng-Projects/.github?color=green" alt="Contributors Badge"/></a>
 <p/>
 

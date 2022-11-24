@@ -5,8 +5,6 @@
 <a href="https://github.com/RobEng-Projects/.github/graphs/contributors"><img src="https://img.shields.io/github/contributors/RobEng-Projects/.github?color=green" alt="Contributors Badge"/></a>
 <p/>
 
-
-
 # Hi there 👋
 
 - 🙋‍♀️ Organization of Robotics Engineering students trying to build something in the missing free time.
